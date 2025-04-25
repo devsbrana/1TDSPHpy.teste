@@ -21,4 +21,5 @@ while i < 4:
     if salarios[i] < media:
         print(f'Salário abaixo da média: {salarios[i]:.2f}')
     i += 1
-    
+
+##Corinthians 
